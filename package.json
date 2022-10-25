@@ -1,0 +1,28 @@
+{
+    "name": "@x-drive/node-fetch-warper",
+    "version": "1.0.1",
+    "description": "node-fetch 3.0 cjs 环境包装模块",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "changelog": "changelog"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/x-dirve/node-fetch-warper.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/x-dirve/node-fetch-warper/issues"
+    },
+    "homepage": "https://github.com/x-dirve/node-fetch-warper#readme",
+    "dependencies": {},
+    "peerDependencies": {
+        "node-fetch": "^3.0.0"
+    },
+    "devDependencies": {
+        "node-fetch": "^3.0.0",
+        "@x-drive/changelog": "1.1.6"
+    }
+}
